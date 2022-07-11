@@ -7,9 +7,9 @@
     "start:dev": "concurrently \"npm run client\" \"npm run server \"",
     "start": "concurrently \"npm run client\" \"npm run server \"",
     "server": "cd server && npm run server",
-    "build": "",
-    "install": "",
-    "client": ""
+    "build": "cd client && npm run build",
+    "install": "concurrently \"cd client && npm install\" \"cd server && npm install\"",
+    "client": "cd client && npm run dev"
   },
   "keywords": [],
   "author": "",
