@@ -18,8 +18,7 @@ export const putDb = async (content) => {
   const tx = jateDB.transaction('jate', 'readwrite');
   const store = tx.objectStore('jate');
 
-  const result = await store.add({ todo: content });
-  console.log(`Added ${content}`, result)
+  const result = await store.put({ id: 1, value: content });
 
   return result;
 }
