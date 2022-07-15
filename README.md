@@ -1,6 +1,8 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 ----------------------------
 #### Description
+Progressive Web Application, also known as PWA, is an web-application that uses service workers, manifest, and other useful web-platform features that maximizes user experience. 
+
 This application features a Text Editor Progressive Web Application (PWA) which allows users to download locally to their device and have access to the application off-line as well.
 
 Final application is deployed using Heroku.
@@ -47,6 +49,7 @@ Final application is deployed using Heroku.
 #### Contributors
 * Paul Won
     * github: https://github.com/paulwon2223
+    * LinkedIn: https://www.linkedin.com/in/paul-won/
     * email: wonpaul2223@gmail.com
 
 ----------------------------
