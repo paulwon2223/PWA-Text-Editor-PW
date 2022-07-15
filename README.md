@@ -27,7 +27,6 @@ This application features a Text Editor Progressive Web Application (PWA) which 
 #### Process
 - Displays application's **manifest.json** file:
 ![img](./img/manifest.png)
-<br>
 - Displays application's **registered service worker**:
 ![img](./img/serviceworkerss.png)
 
