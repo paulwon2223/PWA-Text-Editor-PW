@@ -3,6 +3,8 @@
 #### Description
 This application features a Text Editor Progressive Web Application (PWA) which allows users to download locally to their device and have access to the application off-line as well.
 
+Final application is deployed using Heroku.
+
 ----------------------------
 #### Table of Contents
 - [Description](#description)
@@ -27,10 +29,13 @@ This application features a Text Editor Progressive Web Application (PWA) which 
 #### Process
 - Application installation process:
 ![img](./img/install.png)
+
 - Displays application's **manifest.json** file:
 ![img](./img/manifest.png)
+
 - Displays application's **registered service worker**:
 ![img](./img/serviceworkerss.png)
+
 - Application:
 ![img](./img/application.png)
 
@@ -47,4 +52,4 @@ This application features a Text Editor Progressive Web Application (PWA) which 
 ----------------------------
 #### Contact
 - Project Github Repo: https://github.com/paulwon2223/PWA-Text-Editor-PW
-- Heroku Link: 
+- Heroku Link: https://enthousiaste-maison-89871.herokuapp.com/
