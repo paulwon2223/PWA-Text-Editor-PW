@@ -46,5 +46,5 @@ This application features a Text Editor Progressive Web Application (PWA) which 
 
 ----------------------------
 #### Contact
-- Project Github Repo:
+- Project Github Repo: https://github.com/paulwon2223/PWA-Text-Editor-PW
 - Heroku Link: 
